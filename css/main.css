@@ -51,6 +51,13 @@
       background-color: black;
   }
   
+  .img {
+	  background-size: cover;
+	  -webkit-background-size: cover; 
+	  -moz-background-size: cover; 
+	  -o-background-size: cover;
+  }
+  
   .front {
       border: 5px solid red;
       width: 100%;
